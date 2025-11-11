@@ -27,11 +27,11 @@ Each page highlights different aspects of the city, including historical landmar
 - **Responsive layout** for various screen sizes  
 
 ---
-
 ## 📸 Preview
+
 Here’s a quick look at the homepage:
 
-![Medan Website Preview](./images/logo_medan.png)
+[![Medan Website Preview](./images/website-preview.png)](https://winagea.github.io/website-medan-city-psw/)
 
 ---
 
